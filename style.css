@@ -1,0 +1,54 @@
+*{
+  
+  margin:0 auto 0 auto;
+
+}
+body {
+  margin-top: 60px;
+  background-color:white;
+  
+}
+
+.container{
+  
+  background-color:lightgrey;
+  
+}
+.container h1{
+  margin-left: auto;
+    margin-right: auto;
+    width:12em;
+}
+.container h2{
+  margin-left: auto;
+    margin-right: auto;
+    width:15em;
+}
+.image {
+  
+  background-color:white;
+
+    margin-left: auto;
+    margin-right: auto;
+	width:60.5em;
+  
+  
+}
+.image img{
+
+width:60em;
+}
+.image p{
+  
+  margin-left: auto;
+    margin-right: auto;
+    width:60em;
+
+}
+.text-content {
+  margin-left: auto;
+    margin-right: auto;
+    width:45em;
+}
+
+
